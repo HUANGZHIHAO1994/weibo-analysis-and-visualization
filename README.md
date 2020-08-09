@@ -58,13 +58,13 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/guanshui_content.png?raw=true'
+   src='http://chuantu.xyz/t6/740/1596939134x-1586151428.png?raw=true'
             >
    </div>
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/guanshui_content.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939183x-1586151428.png?raw=true'         
             >
    </div>
 
@@ -76,7 +76,7 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/map.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939248x-1586151428.png?raw=true'         
             >
    </div>
 
@@ -86,7 +86,7 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/lines.png?raw=true'
+   src='http://chuantu.xyz/t6/740/1596939296x-1586151428.png?raw=true'
             >    
    </div>
 
@@ -98,7 +98,7 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/graph.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939330x-1586151428.png?raw=true'         
             >
    </div>
 
@@ -108,13 +108,13 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/cluster_tfidf.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939358x-1586151428.png?raw=true'         
             >
    </div>
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/cluster_w2v.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939387x-1586151428.png?raw=true'         
             >
    </div>
 
@@ -124,7 +124,7 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/tree.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939421x-1586151428.png?raw=true'         
             >
    </div>
 
@@ -134,7 +134,7 @@ comment_example:
 
    <div>
        <img
-   src='https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization/blob/master/weibo-analysis-and-visualization/images/3dbar1.png?raw=true'         
+   src='http://chuantu.xyz/t6/740/1596939446x-1586151428.png?raw=true'         
             >
    </div>
 
