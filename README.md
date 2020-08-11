@@ -58,13 +58,13 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939134x-1586151428.png?raw=true'
+   src='http://i1.fuimg.com/724945/fa51683f710a6473.png?raw=true'
             >
    </div>
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939183x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/a5905208795f2ac7.png?raw=true'         
             >
    </div>
 
@@ -76,7 +76,7 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939248x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/50a61c72f949a0b9.png?raw=true'         
             >
    </div>
 
@@ -86,7 +86,7 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939296x-1586151428.png?raw=true'
+   src='http://i1.fuimg.com/724945/450a55ff983db14a.png?raw=true'
             >    
    </div>
 
@@ -98,7 +98,7 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939330x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/6848edc9ac9a4a5a.png?raw=true'         
             >
    </div>
 
@@ -108,13 +108,13 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939358x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/83226f9c65632680.png?raw=true'         
             >
    </div>
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939387x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/6981da3109f690ac.png?raw=true'         
             >
    </div>
 
@@ -124,7 +124,7 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939421x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/7f5d68f1397c3732.png?raw=true'         
             >
    </div>
 
@@ -134,7 +134,7 @@ comment_example:
 
    <div>
        <img
-   src='http://chuantu.xyz/t6/740/1596939446x-1586151428.png?raw=true'         
+   src='http://i1.fuimg.com/724945/fc6e429690f5db99.png?raw=true'         
             >
    </div>
 
