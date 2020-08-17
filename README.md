@@ -76,7 +76,7 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/50a61c72f949a0b9.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/50a61c72f949a0b9.png?raw=true'         
             >
    </div>
 
@@ -124,7 +124,7 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/7f5d68f1397c3732.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/7f5d68f1397c3732.png?raw=true'         
             >
    </div>
 
