@@ -58,13 +58,13 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/fa51683f710a6473.png?raw=true'
+   src='https://ftp.bmp.ovh/imgs/2020/08/a5905208795f2ac7.png?raw=true'
             >
    </div>
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/a5905208795f2ac7.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/fa51683f710a6473.png?raw=true'         
             >
    </div>
 
@@ -98,7 +98,7 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/6848edc9ac9a4a5a.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/6981da3109f690ac.png?raw=true'         
             >
    </div>
 
@@ -108,13 +108,13 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/83226f9c65632680.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/119760b5eebed0f7.png?raw=true'         
             >
    </div>
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/6981da3109f690ac.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/fc6e429690f5db99.png?raw=true'         
             >
    </div>
 
@@ -134,7 +134,7 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/fc6e429690f5db99.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/64ee28923a441cfd.png?raw=true'         
             >
    </div>
 
