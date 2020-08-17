@@ -98,7 +98,7 @@ comment_example:
 
    <div>
        <img
-   src='https://ftp.bmp.ovh/imgs/2020/08/6981da3109f690ac.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/6848edc9ac9a4a5a.png?raw=true'         
             >
    </div>
 
@@ -108,13 +108,13 @@ comment_example:
 
    <div>
        <img
-   src='https://ftp.bmp.ovh/imgs/2020/08/119760b5eebed0f7.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/6981da3109f690ac.png?raw=true'         
             >
    </div>
 
    <div>
        <img
-   src='https://ftp.bmp.ovh/imgs/2020/08/fc6e429690f5db99.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/83226f9c65632680.png?raw=true'         
             >
    </div>
 
@@ -134,7 +134,7 @@ comment_example:
 
    <div>
        <img
-   src='https://ftp.bmp.ovh/imgs/2020/08/64ee28923a441cfd.png?raw=true'         
+   src='https://ftp.bmp.ovh/imgs/2020/08/fc6e429690f5db99.png?raw=true'         
             >
    </div>
 
