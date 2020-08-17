@@ -86,7 +86,7 @@ comment_example:
 
    <div>
        <img
-   src='http://i1.fuimg.com/724945/450a55ff983db14a.png?raw=true'
+   src='https://ftp.bmp.ovh/imgs/2020/08/450a55ff983db14a.png?raw=true'
             >    
    </div>
 
