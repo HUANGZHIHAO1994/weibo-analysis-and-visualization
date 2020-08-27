@@ -151,11 +151,11 @@ comment_example:
 
    有些文档太大，放在百度网盘链接中:
 
-   链接：https://pan.baidu.com/s/1QSeG26cmXvIFwdWB1p6B3g 
-   提取码：s7gk 
-   
+   链接：https://pan.baidu.com/s/15tDZ_amQvY1B2IOERg1UsA 
+   提取码：ywgz 
 
    
+
 
 9. **文本相似度分析：similar.py**（仅供参考）
 
