@@ -2,7 +2,8 @@
     <img src='https://ftp.bmp.ovh/imgs/2020/08/b77a8439ea51e080.jpg' height="50" width="50" >
  </div>
 
-![GitHub](https://img.shields.io/github/license/HUANGZHIHAO1994/weibo-analysis-and-visualization?color=blue)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
+[![stars](https://badgen.net/github/stars/HUANGZHIHAO1994/weibo-analysis-and-visualization)
 
 # 微博文本分析和可视化
 
