@@ -1,7 +1,7 @@
 <div align="left">
     <img src='https://ftp.bmp.ovh/imgs/2020/08/b77a8439ea51e080.jpg' height="50" width="50" >
  </div>
-
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
 
 # 微博文本分析和可视化
 
