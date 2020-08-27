@@ -3,7 +3,8 @@
  </div>
 
 ![weibo](https://badgen.net/badge/weibo/NLP/cyan?icon=github)
-[//]: [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
+
+[comment]:[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
 ![GitHub license](https://badgen.net/github/license/HUANGZHIHAO1994/weibo-analysis-and-visualization?color=green)
 ![stars](https://badgen.net/github/stars/HUANGZHIHAO1994/weibo-analysis-and-visualization)
 ![forks](https://badgen.net/github/forks/HUANGZHIHAO1994/weibo-analysis-and-visualization?color=red)
