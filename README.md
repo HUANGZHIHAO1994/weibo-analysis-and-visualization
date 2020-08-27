@@ -5,7 +5,7 @@
 ![weibo](https://badgen.net/badge/weibo/NLP/cyan?icon=github)
 ![GitHub license](https://badgen.net/github/license/HUANGZHIHAO1994/weibo-analysis-and-visualization?color=green)
 ![stars](https://badgen.net/github/stars/HUANGZHIHAO1994/weibo-analysis-and-visualization)
-![forks](https://badgen.net/github/forks/HUANGZHIHAO1994/weibo-analysis-and-visualization)
+![forks](https://badgen.net/github/forks/HUANGZHIHAO1994/weibo-analysis-and-visualization?color=red)
 ![python](https://badgen.net/badge/python/%3E=3.6/8d6fe7)
 
 # 微博文本分析和可视化
