@@ -3,7 +3,7 @@
  </div>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/facebook/react/blob/master/LICENSE)
-[![stars](https://badgen.net/github/stars/HUANGZHIHAO1994/weibo-analysis-and-visualization)
+[!stars](https://badgen.net/github/stars/HUANGZHIHAO1994/weibo-analysis-and-visualization)
 
 # 微博文本分析和可视化
 
