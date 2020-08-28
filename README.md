@@ -167,7 +167,11 @@ comment_example:
 
 11. **有关Senti_Keyword_total_id.csv：**  
 
-几乎和Senti_Keyword_total.csv相同，只是多了一列weibo_id（此处不再给出生成Senti_Keyword_total_id.csv的代码，直接给生成的文档），具体可见8中的百度网盘（其中有Senti_Keyword_total_id.csv和Senti_Keyword_total.csv，还有全部comment和全部content），由于lines.py等需要全部关键词，因此需要用**senti_analy.py**直接跑全部comment.json和content.json生成Senti_Keyword_total.csv（直接从网盘下来Senti_Keyword_total_id.csv再跑lines.py，3Dbar.py，pie.py即可）
+    下载8.百度网盘中Senti_Keyword_total_id.csv即可，以下是解释：
+    该文件几乎和Senti_Keyword_total.csv相同，只是多了一列weibo_id（此处不再给出生成Senti_Keyword_total_id.csv的代码，直接给生成的文档，
+    生成Senti_Keyword_total_id.csv可改写**senti_analy.py**，增加一列weibo_id），
+    8中的百度网盘（有Senti_Keyword_total_id.csv和Senti_Keyword_total.csv，还有全部comment和全部content），
+    由于lines.py等需要全部关键词，因此需要用**senti_analy.py**直接跑全部comment.json和content.json生成Senti_Keyword_total.csv（直接从网盘下来Senti_Keyword_total_id.csv再跑lines.py，3Dbar.py，pie.py即可）
 
 
 
