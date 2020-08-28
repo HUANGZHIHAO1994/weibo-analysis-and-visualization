@@ -151,8 +151,8 @@ comment_example:
 
    有些文档太大，放在百度网盘链接中:
 
-   链接：https://pan.baidu.com/s/15tDZ_amQvY1B2IOERg1UsA 
-   提取码：ywgz 
+   链接：https://pan.baidu.com/s/1l447d3d6OSd_yAlsF7b_mA 
+   提取码：og9t
 
    
 
@@ -165,7 +165,9 @@ comment_example:
 
     
 
+11. **有关Senti_Keyword_total_id.csv：**  
 
+几乎和Senti_Keyword_total.csv相同，只是多了一列weibo_id（此处不再给出生成Senti_Keyword_total_id.csv的代码，直接给生成的文档），具体可见8中的百度网盘（其中有Senti_Keyword_total_id.csv和Senti_Keyword_total.csv，还有全部comment和全部content），由于lines.py等需要全部关键词，因此需要用**senti_analy.py**直接跑全部comment.json和content.json生成Senti_Keyword_total.csv（直接从网盘下来Senti_Keyword_total_id.csv再跑lines.py，3Dbar.py，pie.py即可）
 
 
 
